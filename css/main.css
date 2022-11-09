@@ -63,3 +63,9 @@ section div .pildid {
   justify-content: center;
   display: flex;
 }
+html {
+height: 105%;
+}
+body {
+background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
+}
